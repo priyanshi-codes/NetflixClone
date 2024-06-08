@@ -10,5 +10,3 @@ Responsive Design: Optimized for various screen sizes (mobile, tablet, desktop).
 Technologies Used
 HTML: For structuring the web pages.
 CSS: For styling the web pages.
-Contact
-For any inquiries or feedback, please reach out to [gupta28priyanshi@gmail.com].
